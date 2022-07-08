@@ -46,5 +46,10 @@ Se concluyo que las capacitancias no ideales varian segun su fabricación, tempe
 
 6. BIBLIOGRAFIA
 
+Floyd, TL, Salas, RN, González, LMO y López, GP (2007). Principios de circuitos electricos. Pearson Educación.
+
+RÚBRICA
+
+![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
 
 
