@@ -46,3 +46,5 @@ Se concluyo que las capacitancias no ideales varian segun su fabricación, tempe
 
 6. BIBLIOGRAFIA
 
+
+
