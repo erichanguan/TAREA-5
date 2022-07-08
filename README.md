@@ -74,6 +74,7 @@ Entender los tipos de capacitores y sus efectos ideal y no ideales
 ![](https://github.com/erichanguan/TAREA-5/blob/main/ejercicios/10.4%20cap10.png)
 
 4. VIDEO
+
 https://youtu.be/vS-7EF2-l8Q
 
 Video explicativo ejercicios de la tematica de los dos capitulos estudiados
