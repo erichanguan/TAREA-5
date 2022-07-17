@@ -97,4 +97,3 @@ RÚBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
 
-
